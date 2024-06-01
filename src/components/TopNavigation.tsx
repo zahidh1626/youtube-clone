@@ -117,7 +117,7 @@ const TopNavigation = () => {
                         src='/channel_profile.jpeg'
                         alt='cartosphere_1'
                       />
-                      <AvatarFallback>AB</AvatarFallback>
+                      <AvatarFallback>ZH</AvatarFallback>
                     </Avatar>
 
                     <div className='flex flex-col space-y-3 text-base'>
