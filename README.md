@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Get More projects at [Codepem Project]("https://codepem.com/projects") Hub.
-Learn More About [Youtube Clone Using next.js]("https://codepem.com/youtube-clone") at codepem.com/youtube-clone
+Learn More About [Youtube Clone Using next.js](https://codepem.com/youtube-clone) at codepem.com/youtube-clone
+
+Get More projects at [Codepem Project](https://codepem.com/projects) Hub.
 First, run the development server:
 
 ```bash
